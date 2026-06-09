@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260609082634 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260609123101 ">
   <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
     <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
     <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
   </channel>
-  <programme start="20260609082634 +0000" stop="20260609092634 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Santo Rosário da Madrugada | Trezena a Santo Antônio | Instituto Hesed - 09/06 2026-06-09 08:26</title>
+  <programme start="20260609123101 +0000" stop="20260609133101 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Uma hora com São José pelas causas financeiras | Hesed TV - 09/06 2026-06-09 12:30</title>
     <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <display-name>TNT Sports Brasil</display-name>
+    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
+  </channel>
+  <programme start="20260609123101 +0000" stop="20260609133101 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <title>BECHLER, ANDRE HENNING, VSR E TAYNAH ATUALIZAM SITUAÇÃO DE NEYMAR; TUDO SOBRE A ESTREIA DO BRASIL 2026-06-09 12:30</title>
+    <desc>Live YouTube stream from TNT Sports Brasil</desc>
     <category>Live</category>
   </programme>
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260609082634 +0000" stop="20260609092634 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-09 08:26</title>
+  <programme start="20260609123101 +0000" stop="20260609133101 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-09 12:30</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
