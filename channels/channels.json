@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-14T11:48:59.640927",
-  "count": 3,
+  "generated": "2026-06-15T10:49:12.945918",
+  "count": 2,
   "channels": [
     {
       "name": "Ir Kelly Patricia OFICIAL  Instituto Hesed",
@@ -8,16 +8,7 @@
       "id": "UCm_nEAH7DCfjmXUbNkN6JFw",
       "quality": "1080p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781290089/ei/CQAsavz9CfaKr9gPyNGQ6AI/ip/2a09:bac5:c851:188c::272:105/id/jTvQhFhsY2c.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-2oq4f5-5b.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEUafcWoDx-tNcLKEMpfexiw1vsh7P5XJ_Hc9Yfb7CUHo3a5Io1R7zrgpEZubIRhdzF-tqDg2Hv3/spc/SQ-umm2fcOgivb6cEpYKAMMFgBO5QSrbfk1hEvwyrSO4N1mepH8jNPoGCp4v4liB/vprv/1/reg/0/playlist_type/DVR/initcwndbps/4462500/met/1781268489,/mh/n1/mm/44/mn/sn-2oq4f5-5b/ms/lva/mv/m/mvi/7/pl/36/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1781268046/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAPRA9UNg6x7SLCV9XtZZhSP8sla_dsW0ArncOv1WZ6eLAiEAyuFtyHMQQk5F3fjvd2DDemafVetju0CH8v01cM5BYac%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgIp8yDWj2vKFRPLfal6EUJv--Ij3rMyt242JFW5yK-a4CIDEwLpFy2lNi7o2p9fLdwt36mXYADwojVzjXUQ2qQxVs/playlist/index.m3u8",
-      "country": "UK"
-    },
-    {
-      "name": "TNT Sports Brasil",
-      "file": "channels/tnt_sports_brasil.m3u8",
-      "id": "UCs-6sCz2LJm1PrWQN4ErsPw",
-      "quality": "1080p",
-      "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781290103/ei/FwAsas25N5mFkucP-JfCoQs/ip/2a09:bac5:c851:188c::272:105/id/JLSO9pp7HO4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-q4fl6nzy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEXS8AJxOjTEFG7wkgJQWBzcBbkZzn2AUqzzZQXbR7iPlbtvVf4tggWjeTqvBYg1qzZ0u1ByzH0c/spc/SQ-umkGgF9P5_K6PARG27PcrYjdgo-gZ3W3Rjev5PGHljEfLNjCROaArw4ufsMGv/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2698750/met/1781268504,/mh/q2/mm/44/mn/sn-q4fl6nzy/ms/lva/mv/m/mvi/1/pl/36/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51946837/mt/1781268046/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhANQqRMygS0Dqgs_LsIU5Awnf9IsMgsmje63gjnLW04iDAiB47EdnLlq8lnkDKAies-44Nyzod2G88e2K1XMzR9IGqQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAPQLNzMPzuWw8oshb1h8VkT3HIaV0SoJBuexghzXO_DHAiAuCMNohV-KrzJ7x0y2sFhjYJGB7bwbMDQZHcFE7nVnyw%3D%3D/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781542129/ei/kdgvas60Ba6QsfIP1fCMyQw/ip/2a09:bac5:6212:1246::1d2:58/id/16hr5vMN4Bc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEWS1nrt2QGcLymcYiNj9nVztO26yx679H9252WPZse3clNnS9ed6XrCyvtEoaCWzj5Wu7MrHbvb/spc/SQ-umtnNYd0xQi4PWj-gQTIWIOIVaVYvVGCjLQlZTp4RToQyAhL-_dyBaZf0lINL/vprv/1/reg/0/playlist_type/DVR/met/1781520529,/mh/NU/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/2/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51987687/mt/1781520298/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgQoZmmvL02DwMwTubv4mDpRnig_6s324fid-h4HBg3goCIFJRxJxiINd0S0PIAW10KPRRX28P3NpwX2-dvvnFxoRA/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgX0V-jniRe_EgsmcdISKfVE4Ry-JPREopp6k0Ajsvjc8CIH6bFDxTTXlEv3vCv-Tb6noW20YFDkY6acHLn7iE35HX/playlist/index.m3u8",
       "country": "UK"
     },
     {
@@ -26,7 +17,7 @@
       "id": "UCuiLR4p6wQ3xLEm15pEn1Xw",
       "quality": "1080p",
       "status": "live",
-      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781290111/ei/HwAsav3fOJKGkucP0b2A8Qo/ip/2a09:bac5:c851:188c::272:105/id/9jQUYYYpwPw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-q4fl6n6y.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEUQmQIx7aqkPF0bz6fKkzXmG28LfL9uV-F9wZH0yDGCCiluw2oEnPDZmbna6Yli4wujBNWry-TS/spc/SQ-umgmUtvbwhqORKFoY68E_o9Mh6EibZH_R9_vmrybsKYREibc_bHWb3zwEh2lU/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2698750/met/1781268512,/mh/fw/mm/44/mn/sn-q4fl6n6y/ms/lva/mv/m/mvi/3/pl/36/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682,51946838/mt/1781268046/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAMW8v2vC7k-a39WdcISvKEhMq4lXfuYkWhS2AzR7yvNpAiBLxjCUFk6R1I2H2RTrFsi72T4aGmCz0vGHsach3Hs_3A%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgVk0YlBsds3ZNt7KS6RtNADDjQNDkyILWcJ1KI3aKcXQCIHyl1IehQe3ouMYTos9hPdFoBOh0KwplgtLV5fBnrfdt/playlist/index.m3u8",
+      "url": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781542147/ei/o9gvas72KriXsfIPy827kAc/ip/2a09:bac5:6212:1246::1d2:58/id/nnBnDnI7jTQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr12---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/ARmQxEVzOeTnbSmtiY7aTVZ_BiSTOGhcxcZkRhBkzxQEV6XIopofQjwk-eMWG1RxjltCUbObVjf2PCSC/spc/SQ-umohtsUBhqg1xP3NVoL7NNtgOBAghb8w8k18d8nGSA-wYP1Alo_YtQ1iD4ZKX/vprv/1/reg/0/playlist_type/DVR/met/1781520548,/mh/SZ/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/12/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987687/mt/1781520298/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAPHb0xWhSTzpruWNGXKL95xAgekySiyb-3xvyJXcf3sdAiAKIJzqX-nMmcSXr5_3FhLs_caBrUx0rv66BpRcz02RIg%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAP6OIxt95PGa99qJO6_yfDDVbV6mskZz9OoQjm2oYnKAAiAnuwzieG1XwI9M2rx50W594uYJ_jyB2bWs4Dril1CMVQ%3D%3D/playlist/index.m3u8",
       "country": "UK"
     }
   ]
