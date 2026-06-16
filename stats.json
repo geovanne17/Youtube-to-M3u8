@@ -1,21 +1,32 @@
 {
-  "total": 1,
-  "live": 1,
+  "total": 3,
+  "live": 3,
   "offline": 0,
   "error": 0,
   "qualities": {
-    "1080p": 1,
+    "1080p": 3,
     "720p": 0,
     "480p": 0,
     "other": 0
   },
   "by_category": {
+    "General": 2,
     "News": 1
   },
   "by_country": {
-    "UK": 1
+    "UK": 3
   },
   "individual_channels": [
+    {
+      "name": "Ir Kelly Patricia OFICIAL  Instituto Hesed",
+      "file": "channels/ir_kelly_patricia_oficial_instituto_hesed.m3u8",
+      "quality": "1080p"
+    },
+    {
+      "name": "ge tv",
+      "file": "channels/ge_tv.m3u8",
+      "quality": "1080p"
+    },
     {
       "name": "Record News",
       "file": "channels/record_news.m3u8",
