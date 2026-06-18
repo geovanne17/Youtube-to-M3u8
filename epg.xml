@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260618175422 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260618215615 ">
   <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
     <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
     <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
   </channel>
-  <programme start="20260618175422 +0000" stop="20260618185422 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Terço da Misericórdia | Instituto Hesed - 18/06 2026-06-18 17:53</title>
+  <programme start="20260618215615 +0000" stop="20260618225615 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Terço do Combate | Instituto Hesed - 18/06 2026-06-18 21:55</title>
     <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260618175422 +0000" stop="20260618185422 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>Conexão Record News - 18/06/2026 2026-06-18 17:54</title>
+  <programme start="20260618215615 +0000" stop="20260618225615 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>News 19 Horas - 18/06/2026 2026-06-18 21:56</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
