@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260619171042 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260619205958 ">
+  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <display-name>TNT Sports Brasil</display-name>
+    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
+  </channel>
+  <programme start="20260619205958 +0000" stop="20260619215958 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <title>AO VIVO: TUDO SOBRE O PRÉ-JOGO DE BRASIL X HAITI NA SEGUNDA RODADA DA COPA DO MUNDO! 2026-06-19 20:59</title>
+    <desc>Live YouTube stream from TNT Sports Brasil</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <display-name>Record News</display-name>
+    <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
+  </channel>
+  <programme start="20260619205958 +0000" stop="20260619215958 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>Link News - 19/06/2026 2026-06-19 20:59</title>
+    <desc>Live YouTube stream from Record News</desc>
+    <category>Live</category>
+  </programme>
+</tv>
