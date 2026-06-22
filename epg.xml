@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260621210305 ">
-  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
-    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
-  </channel>
-  <programme start="20260621210305 +0000" stop="20260621220305 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Consagração da Diocese de Januária - MG | A Grande Reconquista | Instituto Hesed - 21/06 2026-06-21 21:02</title>
-    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
-    <category>Live</category>
-  </programme>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260622023515 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260621210305 +0000" stop="20260621220305 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-21 21:02</title>
+  <programme start="20260622023515 +0000" stop="20260622033515 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-22 02:35</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
