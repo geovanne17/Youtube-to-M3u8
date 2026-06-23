@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260623122813 ">
-  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
-    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
-  </channel>
-  <programme start="20260623122813 +0000" stop="20260623132813 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Uma hora com São José pelas causas financeiras | Hesed TV - 23/06 2026-06-23 12:27</title>
-    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
-    <category>Live</category>
-  </programme>
-  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
-    <display-name>TNT Sports Brasil</display-name>
-    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
-  </channel>
-  <programme start="20260623122813 +0000" stop="20260623132813 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
-    <title>AO VIVO: AMANHÃ TEM BRASIL!; PRÉVIA DA ESCALAÇÃO; MESSI MAIOR ARTILHEIRO DAS COPAS; MBAPPÉ NA COLA 2026-06-23 12:28</title>
-    <desc>Live YouTube stream from TNT Sports Brasil</desc>
-    <category>Live</category>
-  </programme>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260623171033 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260623122813 +0000" stop="20260623132813 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-23 12:28</title>
+  <programme start="20260623171033 +0000" stop="20260623181033 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>Conexão Record News - 23/06/2026 2026-06-23 17:10</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
