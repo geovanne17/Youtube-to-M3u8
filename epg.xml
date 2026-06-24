@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260624121338 ">
-  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
-    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
-  </channel>
-  <programme start="20260624121338 +0000" stop="20260624131338 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Uma hora com São José pelas causas financeiras | Hesed TV - 23/06 2026-06-24 12:13</title>
-    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
-    <category>Live</category>
-  </programme>
-  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
-    <display-name>TNT Sports Brasil</display-name>
-    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
-  </channel>
-  <programme start="20260624121338 +0000" stop="20260624131338 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
-    <title>AO VIVO: DIA DE BRASIL X ESCÓCIA EM CAMPO PELA ÚLTIMA RODADA DA COPA! NEYMAR VAI JOGAR?; CR7 DESTRÓI 2026-06-24 12:13</title>
-    <desc>Live YouTube stream from TNT Sports Brasil</desc>
-    <category>Live</category>
-  </programme>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260624165912 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260624121338 +0000" stop="20260624131338 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-24 12:13</title>
+  <programme start="20260624165912 +0000" stop="20260624175912 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>Conexão Record News - 24/06/2026 2026-06-24 16:59</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
