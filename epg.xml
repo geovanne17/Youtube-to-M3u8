@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260624165912 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260625020359 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260624165912 +0000" stop="20260624175912 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>Conexão Record News - 24/06/2026 2026-06-24 16:59</title>
+  <programme start="20260625020359 +0000" stop="20260625030359 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-06-25 02:03</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
