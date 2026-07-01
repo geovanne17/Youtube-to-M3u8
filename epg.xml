@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260701084356 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260701122707 ">
   <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
     <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
     <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
   </channel>
-  <programme start="20260701084356 +0000" stop="20260701094356 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Santo Rosário da Madrugada | Cerco de oração com o Padre Pio | Instituto Hesed - 01/07 2026-07-01 08:43</title>
+  <programme start="20260701122707 +0000" stop="20260701132707 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Uma hora com São José pelas causas financeiras | Hesed TV - 01/07 2026-07-01 12:26</title>
     <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <display-name>TNT Sports Brasil</display-name>
+    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
+  </channel>
+  <programme start="20260701122707 +0000" stop="20260701132707 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <title>AO VIVO: NORUEGA PODE DAR PROBLEMAS AO BRASIL? PAQUETA FORA; FRANÇA ATROPELA A SUÉCIA 2026-07-01 12:26</title>
+    <desc>Live YouTube stream from TNT Sports Brasil</desc>
     <category>Live</category>
   </programme>
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260701084356 +0000" stop="20260701094356 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-01 08:43</title>
+  <programme start="20260701122707 +0000" stop="20260701132707 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-01 12:27</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
