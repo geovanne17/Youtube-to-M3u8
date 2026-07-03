@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260703075427 ">
-  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
-    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260703115937 ">
+  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <display-name>TNT Sports Brasil</display-name>
+    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
   </channel>
-  <programme start="20260703075427 +0000" stop="20260703085427 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Santo Rosário da Madrugada | Cerco de oração com o Padre Pio | Instituto Hesed - 03/07 2026-07-03 07:53</title>
-    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+  <programme start="20260703115937 +0000" stop="20260703125937 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <title>AO VIVO: NOVIDADES DE BRASIL X NORUEGA; CR7 MARCA E PORTUGAL SE CLASSIFICA COM DRAMA; MESSI EM CAMPO 2026-07-03 11:59</title>
+    <desc>Live YouTube stream from TNT Sports Brasil</desc>
     <category>Live</category>
   </programme>
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260703075427 +0000" stop="20260703085427 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-03 07:54</title>
+  <programme start="20260703115937 +0000" stop="20260703125937 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-03 11:59</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
