@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260707122122 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260707170415 ">
+  <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <display-name>Record News</display-name>
+    <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
+  </channel>
+  <programme start="20260707170415 +0000" stop="20260707180415 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>Conexão Record News - 07/07/2026 2026-07-07 17:04</title>
+    <desc>Live YouTube stream from Record News</desc>
+    <category>Live</category>
+  </programme>
+</tv>
