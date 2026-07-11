@@ -1,16 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-07-10 16:50:09 UTC
-# Total channels: 1
+# Generated: 2026-07-11 01:24:10 UTC
+# Total channels: 0
 # Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/
 
-#EXTINF:-1 tvg-id="UCuiLR4p6wQ3xLEm15pEn1Xw" tvg-logo="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg" tvg-name="Record News" group-title="News",Record News [HD]
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1783723801/ei/uSJRatHBD_v0sfIPlejrgQI/ip/2a09:bac5:6213:3046::4cf:10/id/i4Z1g2dKePg.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-ojn4v5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhN68-DNXVHjV6AkVTFnaj_W65HBMpnSdiLmNzKg1zVvkCWVG-Rd5wTThNx94K2MZKMhOy2OmxKx/spc/SQ-umqEnv2XMMHl7SSC70X03pNJ8MEZ0alz0HL7-KVINIqOeMVzoHItNMLjcSKqw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3033750/met/1783702201,/mh/qC/mm/44/mn/sn-ojn4v5-5g/ms/lva/mv/m/mvi/1/pl/44/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51946837,52017147/mt/1783701643/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgEDWEWX8d1sQP3jT-oX5F846w3Q0oDTndmgqcQd30lMICIQD-12uhue5-HGYlJrjkV1hHrh4sIw-3BRiLglWA6xCvqw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgYvRQ6IfbZXqrnaYQU7z2JUoFndVtJirATGNzwxn8Cp8CIQD5t5BoVbXbXdjiNXitDhzWHjgg_P9iwDxXzjnEQhCPRw%3D%3D/playlist/index.m3u8
 
-
-# Summary: 1/1 streams active
-# Quality: 1x1080p, 0x720p, 0x480p
-# Categories: News:1
-# Countries: UK:1
+# Summary: 0/0 streams active
+# Quality: 0x1080p, 0x720p, 0x480p
+# Categories: 
+# Countries: 
 # Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/
-# Updated: 2026-07-10 16:50:09 UTC
+# Updated: 2026-07-11 01:24:10 UTC
