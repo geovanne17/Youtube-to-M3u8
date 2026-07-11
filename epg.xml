@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260711070445 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260711154311 ">
+  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
+    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
+  </channel>
+  <programme start="20260711154311 +0000" stop="20260711164311 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Novena de Nossa Senhora de Pompeia | 5º dia | Súplica | Instituto Hesed - 11/07 2026-07-11 15:42</title>
+    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <display-name>Record News</display-name>
+    <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
+  </channel>
+  <programme start="20260711154311 +0000" stop="20260711164311 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-11 15:43</title>
+    <desc>Live YouTube stream from Record News</desc>
+    <category>Live</category>
+  </programme>
+</tv>
