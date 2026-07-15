@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260714070202 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260715161252 ">
+  <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <display-name>Record News</display-name>
+    <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
+  </channel>
+  <programme start="20260715161252 +0000" stop="20260715171252 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-15 16:12</title>
+    <desc>Live YouTube stream from Record News</desc>
+    <category>Live</category>
+  </programme>
+</tv>
