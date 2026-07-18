@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Generated: 2026-07-18 01:17:40 UTC
+# Generated: 2026-07-18 06:52:22 UTC
 # Total channels: 1
 # Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/
 
 #EXTINF:-1 tvg-id="UCuiLR4p6wQ3xLEm15pEn1Xw" tvg-logo="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg" tvg-name="Record News" group-title="News",Record News [Mobile]
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784359053/ei/LNRaavaLO6yfsfIP16OxeQ/ip/2a09:bac5:6190:281e::3ff:56/id/_EsZlKt0foE.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr1---sn-ip.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhNrTTN7MMCUL0R40NfXqxFFbGgJf-tKS_8ek42amOSF-fpl67OTy8IvIXMlTE-ydYmh_GOVZA5h/spc/SQ-umlvp3LbwmA_tiWV4msWLCwywLNlMuvupiKJTuQyFPRDUqtTPjRcZSNaXFzkq/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2663750/met/1784337453,/mh/-v/mm/44/mn/sn-ip/ms/lva/mv/m/mvi/1/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116/mt/1784337170/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgJkJA-VBeVBaAdKHIPsssAq-A5n6pe8GlSIFCKmqJtncCID4ylgXp-CBIQV_-DRmBtY3eBnL5OWro4etHagj60Xxj/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgcnsYh4kvMjRfJ5tq99-M29wFMPMXNVm9AgqO5gGwAA0CIQCxHtHgdC7m9frLlzRcgS3nZnvTAmMdAbz-uXXN4smROQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784379134/ei/niJbarWROtylir4PpJa5sQc/ip/2a09:bac5:7497:2d2::48:78/id/K445HimTGdI.1/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr5---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AZFlqhOsJMJS-zMqRMj6uecOpHMPoTFryewjrfo4APMmzKEuT6UvZN8n6HJgNn7LQ_Tz-tCWHb863ruQ/spc/SQ-umtKS1HEAcsYiVMEjGrEWO70o1MHwV2i4U1bJdHknAwI4tsfQQJAR8DATqb9U/vprv/1/reg/0/playlist_type/DVR/met/1784357535,/mh/JB/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/5/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51992867/mt/1784357060/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJ-UySTd4NdL2aJ2FyZ_aXRgB7H4sOAq0vvGgSrKdi1XAiBdUHGaliGo9lC9jWn27hs3BhuZbm_TaMKsaUbDVxtNrA%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgZJUbe-vXM6UcPLgyBOvN1M7xrwrDUJchNaM7p0VESdoCIQCTBEbtte11juzBg1rPjn3kgfANjNESHr-_03P2Mgfa2w%3D%3D/playlist/index.m3u8
 
 
 # Summary: 1/1 streams active
@@ -13,4 +13,4 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784359053/ei/
 # Categories: News:1
 # Countries: UK:1
 # Individual channels: https://uticap.github.io/Youtube-to-M3u8/channels/
-# Updated: 2026-07-18 01:17:40 UTC
+# Updated: 2026-07-18 06:52:22 UTC
