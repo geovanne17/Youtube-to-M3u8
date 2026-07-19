@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260719110252 "/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260719154421 ">
+  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
+    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
+  </channel>
+  <programme start="20260719154421 +0000" stop="20260719164421 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Novena de Nossa Senhora de Pompeia | 13º dia | Súplica | Instituto Hesed - 19/07 2026-07-19 15:43</title>
+    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <display-name>TNT Sports Brasil</display-name>
+    <icon src="logos/UCs-6sCz2LJm1PrWQN4ErsPw.jpg"/>
+  </channel>
+  <programme start="20260719154421 +0000" stop="20260719164421 +0000" channel="UCs-6sCz2LJm1PrWQN4ErsPw">
+    <title>É DIA DE FINAL! ESPANHA X ARGENTINA DECIDEM A COPA DO MUNDO | De Placa 19/07/26 2026-07-19 15:44</title>
+    <desc>Live YouTube stream from TNT Sports Brasil</desc>
+    <category>Live</category>
+  </programme>
+  <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <display-name>Record News</display-name>
+    <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
+  </channel>
+  <programme start="20260719154421 +0000" stop="20260719164421 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-19 15:44</title>
+    <desc>Live YouTube stream from Record News</desc>
+    <category>Live</category>
+  </programme>
+</tv>
