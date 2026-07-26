@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260725203916 ">
-  <channel id="UCgCKagVhzGnZcuP9bSMgMCg">
-    <display-name>ge tv</display-name>
-    <icon src="logos/UCgCKagVhzGnZcuP9bSMgMCg.jpg"/>
-  </channel>
-  <programme start="20260725203916 +0000" stop="20260725213916 +0000" channel="UCgCKagVhzGnZcuP9bSMgMCg">
-    <title>SANTOS X CHAPECOENSE | AQUECIMENTO AO VIVO | BRASILEIRÃO 2026 | #live | sportv 2026-07-25 20:38</title>
-    <desc>Live YouTube stream from ge tv</desc>
-    <category>Live</category>
-  </programme>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260726012917 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260725203916 +0000" stop="20260725213916 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-25 20:39</title>
+  <programme start="20260726012917 +0000" stop="20260726022917 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-26 01:29</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
