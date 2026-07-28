@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260727210017 ">
-  <channel id="UCZiYbVptd3PVPf4f6eR6UaQ">
-    <display-name>CazéTV</display-name>
-    <icon src="logos/UCZiYbVptd3PVPf4f6eR6UaQ.jpg"/>
-  </channel>
-  <programme start="20260727210017 +0000" stop="20260727220017 +0000" channel="UCZiYbVptd3PVPf4f6eR6UaQ">
-    <title>AO VIVO: PORCINOS X FURIA | 1ª RODADA | COPA DO MUNDO DE CLUBES KINGS LEAGUE 2026-07-27 21:00</title>
-    <desc>Live YouTube stream from CazéTV</desc>
-    <category>Live</category>
-  </programme>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260728012114 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260727210017 +0000" stop="20260727220017 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>Link News - 27/07/2026 2026-07-27 21:00</title>
+  <programme start="20260728012114 +0000" stop="20260728022114 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-28 01:21</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
