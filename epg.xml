@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260730072559 ">
-  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
-    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260730162010 ">
+  <channel id="UCZiYbVptd3PVPf4f6eR6UaQ">
+    <display-name>CazéTV</display-name>
+    <icon src="logos/UCZiYbVptd3PVPf4f6eR6UaQ.jpg"/>
   </channel>
-  <programme start="20260730072559 +0000" stop="20260730082559 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
-    <title>Santo Rosário da Madrugada | Instituto Hesed - 30/07 2026-07-30 07:25</title>
-    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+  <programme start="20260730162010 +0000" stop="20260730172010 +0000" channel="UCZiYbVptd3PVPf4f6eR6UaQ">
+    <title>AO VIVO: É TUDO OU NADA PRA DESIMPAIN NA KINGS! | COPA DO MUNDO DE CLUBES KINGS LEAGUE | LAST CHANCE 2026-07-30 16:19</title>
+    <desc>Live YouTube stream from CazéTV</desc>
     <category>Live</category>
   </programme>
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260730072559 +0000" stop="20260730082559 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-30 07:25</title>
+  <programme start="20260730162010 +0000" stop="20260730172010 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-07-30 16:20</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
