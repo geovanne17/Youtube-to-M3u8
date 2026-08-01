@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260731205143 ">
-  <channel id="UCZiYbVptd3PVPf4f6eR6UaQ">
-    <display-name>CazéTV</display-name>
-    <icon src="logos/UCZiYbVptd3PVPf4f6eR6UaQ.jpg"/>
-  </channel>
-  <programme start="20260731205143 +0000" stop="20260731215143 +0000" channel="UCZiYbVptd3PVPf4f6eR6UaQ">
-    <title>AO VIVO: G3X X DESIMPAIN | COPA DO MUNDO DE CLUBES KINGS LEAGUE | QUARTAS DE FINAL 2026-07-31 20:51</title>
-    <desc>Live YouTube stream from CazéTV</desc>
-    <category>Live</category>
-  </programme>
+<tv generator-info-name="YouTube Live EPG Generator" date="20260801013032 ">
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260731205143 +0000" stop="20260731215143 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>Link News - 31/07/2026 2026-07-31 20:51</title>
+  <programme start="20260801013032 +0000" stop="20260801023032 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>News das 10 - 31/07/2026 2026-08-01 01:30</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
