@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260808053402 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260808102001 ">
+  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
+    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
+  </channel>
+  <programme start="20260808102001 +0000" stop="20260808112001 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Santo Rosário da Madrugada | Novena a Santa Clara | Instituto Hesed - 08/08 2026-08-08 10:19</title>
+    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+    <category>Live</category>
+  </programme>
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260808053402 +0000" stop="20260808063402 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-08-08 05:33</title>
+  <programme start="20260808102001 +0000" stop="20260808112001 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-08-08 10:19</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
