@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260812060732 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260812104949 ">
+  <channel id="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <display-name>Ir Kelly Patricia OFICIAL  Instituto Hesed</display-name>
+    <icon src="logos/UCm_nEAH7DCfjmXUbNkN6JFw.jpg"/>
+  </channel>
+  <programme start="20260812104949 +0000" stop="20260812114949 +0000" channel="UCm_nEAH7DCfjmXUbNkN6JFw">
+    <title>Santa Missa | Instituto Hesed - 12/08 2026-08-12 10:49</title>
+    <desc>Live YouTube stream from Ir Kelly Patricia OFICIAL  Instituto Hesed</desc>
+    <category>Live</category>
+  </programme>
   <channel id="UCuiLR4p6wQ3xLEm15pEn1Xw">
     <display-name>Record News</display-name>
     <icon src="logos/UCuiLR4p6wQ3xLEm15pEn1Xw.jpg"/>
   </channel>
-  <programme start="20260812060732 +0000" stop="20260812070732 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
-    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-08-12 06:07</title>
+  <programme start="20260812104949 +0000" stop="20260812114949 +0000" channel="UCuiLR4p6wQ3xLEm15pEn1Xw">
+    <title>AO VIVO: Acompanhe as principais notícias do dia na Record News 2026-08-12 10:49</title>
     <desc>Live YouTube stream from Record News</desc>
     <category>Live</category>
   </programme>
